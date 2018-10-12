@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerWorkflow", "CustomerWorkflow\CustomerWorkflow.csproj", "{3ACC6FB0-69A4-4CCA-8135-69F7CF0758C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACC6FB0-69A4-4CCA-8135-69F7CF0758C6}.Debug|x86.ActiveCfg = Debug|x86
+		{3ACC6FB0-69A4-4CCA-8135-69F7CF0758C6}.Debug|x86.Build.0 = Debug|x86
+		{3ACC6FB0-69A4-4CCA-8135-69F7CF0758C6}.Release|x86.ActiveCfg = Release|x86
+		{3ACC6FB0-69A4-4CCA-8135-69F7CF0758C6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1E1F9A-0AC4-4C0D-B3F8-38333A23CB50}
+	EndGlobalSection
+EndGlobal
